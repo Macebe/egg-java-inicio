@@ -4,5 +4,6 @@ que pusiste en la carpeta esta.
  Todo lo que agregues a éste documento, hay que poner de nuevo "git add .".
  Git commit: es para guardar un archivo o agregar un nuevo proyecto. Tienes que escribir un mensaje que explica qué
 hiciste.
- git push: vincular
+ git push: Guardar todo en el repositorio, poner origin master
+ cada vez que yo haga una modificación, debo poner git add . y git push para que se agregue y se guarde en el repositorio.
 
